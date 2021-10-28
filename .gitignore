@@ -1,6 +1,6 @@
 *
 !images/*
 *.DS_Store
-!resources-paper.tex
-!resources-paper.pdf
+!the-blocktree-resources-paper.tex
+!the-blocktree-resources-paper.pdf
 !README.md
