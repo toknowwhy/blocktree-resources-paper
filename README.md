@@ -1,3 +1,3 @@
-# resources-paper
+# The Blocktree's Resources Paper
 
-This repository contains the latest information about dAbacus resources.
+This repository contains the latest information about The Blocktree's resources.
